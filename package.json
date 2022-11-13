@@ -1,0 +1,19 @@
+{
+  "name": "da-p3-task1",
+  "version": "1.0.0",
+  "description": "In this phase the focus will be on understanding basic concepts in solana development and getting familiar with some of the most frequently used packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miles-blaq/DA-P3-Task1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miles-blaq/DA-P3-Task1/issues"
+  },
+  "homepage": "https://github.com/miles-blaq/DA-P3-Task1#readme"
+}
